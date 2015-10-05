@@ -1,0 +1,2 @@
+/cache" is used for caching, therefore it must be read- and writable for the web server process.
+/缓存“用于缓存，因此它必须是只读和可写为Web服务器进程。
